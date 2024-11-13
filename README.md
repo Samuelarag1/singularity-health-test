@@ -24,5 +24,3 @@ Abra [http://localhost:3000](http://localhost:3000) para ver el resultado.
 > Implementacion de lucide-react para el carousel
 
 > Implementacion de React Icons para un mejor rendimiento de la aplicacion.
-
-> Esta aplicacion NO es RESPONSIVE.
