@@ -1,5 +1,6 @@
 # Prueba Tecnica Singularithy Health
 
+> Antes de levantar el servidor, es requerido instalar las dependencias, si tuviese problema con npm install, intentar con npm install --force
 Primero, para levantar el servidor, debemos correr el siguiente comando en la consola
 
 ```bash
