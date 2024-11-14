@@ -5,8 +5,8 @@ import { useRouter } from "next/navigation";
 import Image from "next/image";
 import Link from "next/link";
 const loginSchema = z.object({
-  email: z.string().email("Debe ser un correo válido"),
-  password: z.string().min(4, "La contraseña debe tener al menos 4 caracteres"),
+  email: z.string().email("It must be a valid email"),
+  password: z.string().min(4, "Password must be at least 4 characters"),
 });
 
 export default function Login() {
